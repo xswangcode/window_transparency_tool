@@ -125,5 +125,3 @@ window_transparency_tool/
 
 
 ---
-
-希望这个 `README.md` 文件能帮助你更好地描述项目！如果有其他需求，欢迎随时提出！
