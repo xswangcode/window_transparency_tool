@@ -85,6 +85,9 @@ window_transparency_tool/
 ├── icon.png                     # 托盘图标文件
 ├── icon.ico                     # exe 文件图标
 ├── README.md                    # 项目说明文件
+├── window_transparency_tool.log # 日志文件
+├── dist                         # 项目说明文件
+      └── main.exe               # 最新编译后的文件
 ```
 
 ---
