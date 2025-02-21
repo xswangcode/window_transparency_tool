@@ -50,8 +50,8 @@ python main.py
 
 ### 3. 使用快捷键
 
-- **增加透明度**：`Ctrl + Alt + Up`
-- **降低透明度**：`Ctrl + Alt + Down`
+- **增加透明度**：`Ctrl + Alt + U`
+- **降低透明度**：`Ctrl + Alt + D`
 - **恢复默认透明度**：`Ctrl + Alt + 0`
 
 ### 4. 系统托盘操作
@@ -110,7 +110,7 @@ window_transparency_tool/
    - 确保 `icon.png` 和 `icon.ico` 文件存在，并放在脚本同级目录下。
 
 3. **日志文件**：
-   - 日志文件默认保存在 `logs/window_transparency_tool.log`，方便排查问题。
+   - 日志文件默认保存在 `window_transparency_tool.log`，方便排查问题。
 
 ---
 
