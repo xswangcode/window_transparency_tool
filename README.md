@@ -22,7 +22,7 @@
 
 4. **日志记录**：
    - 记录程序运行时的调试信息和错误日志。
-   - 日志文件保存在 `logs/window_transparency_tool.log`。
+   - 日志文件保存在 `window_transparency_tool.log`。
    - 生产环境下并未记录日志
 
 5. **打包支持**：
